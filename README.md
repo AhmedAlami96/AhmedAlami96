@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Alami
-- 👀 I’m interested in learning new programmation languages and new advanced models in data science such as Go, Rust etc. 
+- 👀 I’m interested in learning new technologies. 
 - 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on projects with Go.
+- 💞️ I’m looking to collaborate on professional projects.
 - 📫 How to reach me: 
 gmail : alami.alami1996@gmail.com
 whatsapp : +212678484917
